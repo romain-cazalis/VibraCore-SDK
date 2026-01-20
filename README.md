@@ -7,6 +7,7 @@ VibraCore est une bibliothèque C++ haute performance conçue pour l'analyse vib
 - **Performance :** Optimisé pour processeurs x86_64 et ARM (Apple Silicon).
 - **Zéro Dépendance :** Pas besoin d'installer de librairies tierces.
 - **Interopérabilité :** Interface C standard compatible avec Python, C#, et LabVIEW.
+![VibraCore Diagnostic Result](Test..png)
 
 ## 📁 Structure du SDK
 - `/include` : Fichier d'en-tête `VibraCore.h`.
