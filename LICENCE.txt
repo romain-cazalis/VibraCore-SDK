@@ -1,0 +1,18 @@
+CONTRAT DE LICENCE DE LOGICIEL : VIBRACORE SDK v1.0
+1. OBJET DU CONTRAT Ce contrat lie le Développeur ([Cazalis Romain]) et le Licencié (l'acheteur). Il définit les conditions d'utilisation de la bibliothèque logicielle VibraCore (fichiers .dylib et .h).
+
+2. CONCESSION DE LICENCE Le Développeur accorde au Licencié une licence d'utilisation commerciale, non-exclusive et mondiale. Le Licencié est autorisé à intégrer la bibliothèque dans ses propres produits logiciels.
+
+3. RESTRICTIONS STRICTES Il est formellement interdit au Licencié de :
+
+Tenter de décompiler, désassembler ou pratiquer l'ingénierie inverse (reverse-engineering) sur le fichier binaire .dylib.
+
+Distribuer ou vendre le fichier d'en-tête VibraCore.h de manière isolée.
+
+Modifier le code binaire original.
+
+4. PROPRIÉTÉ INTELLECTUELLE Le code source, les algorithmes de calcul du Kurtosis et du RMS, ainsi que les droits d'auteur associés restent la propriété exclusive et entière du Développeur. Aucun transfert de propriété intellectuelle n'est effectué par ce contrat.
+
+5. LIMITATION DE RESPONSABILITÉ Le logiciel est fourni "en l'état". Le Développeur ne pourra être tenu responsable des dommages directs ou indirects (pertes d'exploitation, pannes machines) résultant de l'interprétation des résultats fournis par le SDK. Il incombe au Licencié de tester et de valider ses propres seuils d'alerte.
+
+6. RÉSILIATION Tout manquement aux restrictions de l'article 3 entraînera la résiliation immédiate de la licence sans remboursement.
